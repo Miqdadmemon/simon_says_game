@@ -38,3 +38,4 @@ The game challenges players to remember and repeat an increasing sequence of col
 - CSS
 - JavaScript (DOM manipulation & game logic)
 
+
